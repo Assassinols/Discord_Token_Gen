@@ -14,7 +14,7 @@
 - 🔓Set displayName
 - 🔓Set pronouns
 - 🔓Set birthday
-- 🔓Set Hypesquad
+- 🔓Hypesquad
 - 
 ## 🔥 Proxy Free
 - 🎉webshare.io
