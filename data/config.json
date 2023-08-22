@@ -1,1 +1,13 @@
-
+{
+    "ApiKey": "capsolver.com",
+    "Debug":true,
+    "Invite":"Discord invite Server",
+    "Humanization":{
+        "pfp":true,
+        "bio":true,
+        "displayName":false,
+        "pronouns":false,
+        "birthday":false,
+        "Hypesquad":true
+    }
+}
