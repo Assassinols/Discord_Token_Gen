@@ -15,7 +15,7 @@
 - 🔓Set pronouns
 - 🔓Set birthday
 - 🔓Set Hypesquad
-- 
+
 ## 🔥 Proxy Free
 - 🎉webshare.io
 - 🎉proxies.gg
